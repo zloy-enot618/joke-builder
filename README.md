@@ -8,4 +8,7 @@
 ``cd joke-builder``
 
 ### 3
+``pip install -r -requirementst.txt``
+
+### 4
 ``python joke.py``
